@@ -4,4 +4,4 @@ title: Game Projects
 permalink: /gameProjects/
 ---
 
-Will be used to display my current & past Gameprojects.
+Coming to you soon! - I just need to find my project files under the layer of dust that seems to mysteriously swallowed all my ~~abandoned~~ paused games.
