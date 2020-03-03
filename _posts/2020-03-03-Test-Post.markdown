@@ -1,8 +1,7 @@
 ---
-layout: post
 title:  "Test Post"
 date:   2020-03-03 12:09:03 +0100
-categories: jekyll update
+categories: post general
 ---
 
 This is a first test post, nothing exciting going on here just yet.
