@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Test Post"
+date:   2020-03-03 12:09:03 +0100
+categories: jekyll update
+---
+
+This is a first test post, nothing exciting going on here just yet.
+Please be patient while enjoying this hastily written post on a beautiful white background,
+while the author desperately tries to figure out what to do and how to do it.
+Until then, please enjoy this masterpiece of a website and the author's brevity while it lasts - I cannot promise
+the same for future posts.
